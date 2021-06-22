@@ -1,6 +1,5 @@
-* C program to read a file and display file contents character by character using fgetc() 
- */
-
+/* C program to read a file and display file contents character by character using fgetc() */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
